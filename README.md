@@ -16,10 +16,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=icesalesman&show_icons=true&theme=radical)
 
-##  GitHub Trophies
-
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=icesalesman&theme=radical)
-
 ##  Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icesalesman&theme=dark)
